@@ -1,0 +1,17 @@
+{
+  "name": "promptforge-tools",
+  "owner": {
+    "name": "Dhairya Patel"
+  },
+  "description": "PromptForge and related prompt-optimization tooling for Claude Code.",
+  "plugins": [
+    {
+      "name": "promptforge",
+      "source": "./",
+      "description": "Automatically rewrites and optimizes your prompts before Claude Code processes them.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["prompt", "optimization", "hooks"]
+    }
+  ]
+}

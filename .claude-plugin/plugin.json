@@ -1,0 +1,13 @@
+{
+  "name": "promptforge",
+  "description": "Automatically rewrites and optimizes your prompts before Claude Code processes them, so you stop hand-tuning prompts in another tool first.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dhairya Patel"
+  },
+  "homepage": "https://github.com/dhairya0210/prompt_enhancer",
+  "repository": "https://github.com/dhairya0210/prompt_enhancer",
+  "license": "MIT",
+  "keywords": ["prompt", "prompt-engineering", "optimization", "hooks", "productivity"],
+  "hooks": "./hooks/hooks.json"
+}
