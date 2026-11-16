@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local PromptForge debug log (if pointed inside the repo)
+promptforge.log
+*.log
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
